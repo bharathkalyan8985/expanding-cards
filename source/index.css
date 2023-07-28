@@ -6,23 +6,28 @@
 }
 
 #img-1 {
-    background-image: url(../assets/img1.png);
+    background-image: url(/assets/img1.jpg);
+    width: fit-content;
 }
 
 #img-2 {
-    background-image: url(../assets/img2.png);
+    background-image: url(/assets/img2.jpg);
+        width: fit-content;
 }
 
 #img-3 {
-    background-image: url(../assets/img3.png);
+    background-image: url(/assets/img3.jpg);
+        width: fit-content;
 }
 
 #img-4 {
-    background-image: url(../assets/img4.png);
+    background-image: url(/assets/img4.jpg);
+        width: fit-content;
 }
 
 #img-5 {
-    background-image: url(../assets/img5.png);
+    background-image: url(/assets/img5.jpg);
+        width: fit-content;
 }
 
 body {
